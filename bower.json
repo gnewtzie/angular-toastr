@@ -1,8 +1,8 @@
 {
-  "name": "angular-toastr",
-  "version": "2.1.1",
+  "name": "angular-toastr-exaktime",
+  "version": "2.1.2",
   "authors": [
-    "Jesus Rodriguez <Foxandxss@gmail.com>"
+    "Garick Newtzie <garick.newtzie@exaktime.com>"
   ],
   "license": "MIT",
   "keywords": [

@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.1.2
+
+- Fixed scope.init() problem
+
 ## Version 2.1.1
 
 - Add /dist again for bower.
